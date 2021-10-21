@@ -11,6 +11,8 @@ plotly = "*"
 plotly-express = "*"
 nbformat = "*"
 ipykernel = "*"
+seaborn = "*"
+openpyxl = "*"
 
 [dev-packages]
 
