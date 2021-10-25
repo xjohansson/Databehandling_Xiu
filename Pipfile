@@ -13,6 +13,7 @@ nbformat = "*"
 ipykernel = "*"
 seaborn = "*"
 openpyxl = "*"
+lxml = "*"
 
 [dev-packages]
 
