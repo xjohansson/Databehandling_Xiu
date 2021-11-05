@@ -1,0 +1,8 @@
+cd DOCUMENTS/
+ls
+cd..# 退出
+cd GitHub
+cd Databehandling
+ls #lista
+git status
+git pull 
