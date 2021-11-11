@@ -17,6 +17,9 @@ lxml = "*"
 python-dotenv = "*"
 requests = "*"
 dash = "*"
+numexpr = "*"
+heroku = "*"
+gunicorn = "*"
 
 [dev-packages]
 
